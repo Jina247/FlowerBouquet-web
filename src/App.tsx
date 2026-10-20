@@ -14,7 +14,7 @@ const LETTER = {
     "Wherever you are when you read this, I hope it makes you smile.",
   ],
   closing: "With love,",
-  signature: "Con cuả Mẹ",
+  signature: "Su",
 };
 
 function App() {
